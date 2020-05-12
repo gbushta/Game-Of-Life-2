@@ -1,0 +1,1168 @@
+Archive member included to satisfy reference by file (symbol)
+
+build//apps-sdk/gloss//libgloss.a(app_start.o)
+                              build//apps-sdk/gloss//crt0.o (app_start)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fopen.o)
+                              /Volumes/Fiddler/hadbadge2019_workshops/basic/app-GOL2_fid/build/main.o (symbol from plugin) (fopen)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseek.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fopen.o) (_fseek_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseeko.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseek.o) (_fseeko_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fstatr.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseeko.o) (_fstat_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-impure.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fopen.o) (_impure_ptr)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-makebuf.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseeko.o) (__smakebuf_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mallocr.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-makebuf.o) (_malloc_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memset.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseeko.o) (memset)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mlock.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-openr.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fopen.o) (_open_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-rand.o)
+                              /Volumes/Fiddler/hadbadge2019_workshops/basic/app-GOL2_fid/build/main.o (symbol from plugin) (srand)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reent.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fstatr.o) (errno)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-refill.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseeko.o) (__srefill_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-sbrkr.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-setvbuf.o)
+                              /Volumes/Fiddler/hadbadge2019_workshops/basic/app-GOL2_fid/build/main.o (symbol from plugin) (setvbuf)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-stdio.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fopen.o) (__sread)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-writer.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-stdio.o) (_write_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-closer.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-stdio.o) (_close_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fflush.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-refill.o) (__sflush_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-findfp.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-makebuf.o) (_cleanup_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-flags.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fopen.o) (__sflags)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-freer.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseeko.o) (_free_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fwalk.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-refill.o) (_fwalk)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-isattyr.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-makebuf.o) (_isatty_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-lseekr.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-stdio.o) (_lseek_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-malloc.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-setvbuf.o) (malloc)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-readr.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-stdio.o) (_read_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fclose.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-findfp.o) (_fclose_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-calloc.o)
+                              /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o (calloc)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-callocr.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-calloc.o) (_calloc_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputc.o)
+                              /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o (fputc)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputs.o)
+                              /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o (fputs)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fvwrite.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputs.o) (__sfvwrite_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memchr.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fvwrite.o) (memchr)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memcpy.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fvwrite.o) (memcpy)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memmove-stub.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fvwrite.o) (memmove)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-printf.o)
+                              /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o (printf)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-putc.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputc.o) (_putc_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-puts.o)
+                              /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o (puts)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-realloc.o)
+                              /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o (realloc)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reallocr.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fvwrite.o) (_realloc_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strlen.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputs.o) (strlen)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-printf.o) (_vfprintf_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wbuf.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-putc.o) (__swbuf_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wsetup.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fvwrite.o) (__swsetup_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ldtoa.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (_ldtoa_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-localeconv.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (_localeconv_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mprec.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ldtoa.o) (_Balloc)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-s_frexp.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (frexp)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-sprintf.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ldtoa.o) (sprintf)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strcpy.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ldtoa.o) (strcpy)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strncpy.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (strncpy)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfprintf.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-sprintf.o) (_svfprintf_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfiprintf.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (__sprint_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputwc.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfiprintf.o) (_fputwc_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-locale.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputwc.o) (__locale_mb_cur_max)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mbtowc_r.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-locale.o) (__ascii_mbtowc)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strcmp.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-locale.o) (strcmp)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfiprintf.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfprintf.o) (__ssprint_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wcrtomb.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputwc.o) (_wcrtomb_r)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wctomb_r.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-locale.o) (__ascii_wctomb)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ctype_.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-locale.o) (_ctype_)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (__udivdi3)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (__umoddi3)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mprec.o) (__divdf3)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mprec.o) (__muldf3)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (__eqtf2)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (__gttf2)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (__lttf2)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (__multf3)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (__subtf3)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (__fixtfsi)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (__floatsitf)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (__extenddftf2)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o) (__trunctfdf2)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clz.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o) (__clz_tab)
+/Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
+                              /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o) (__clzsi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reent.o)
+fbmem               0x4               /Volumes/Fiddler/hadbadge2019_workshops/basic/app-GOL2_fid/build/main.o (symbol from plugin)
+
+Discarded input sections
+
+ .comment       0x0000000000000000       0x52 /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccAiEitxdebugobj
+ .data          0x0000000000000000        0x0 /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 build//apps-sdk/gloss//crt0.o
+ .bss           0x0000000000000000        0x0 build//apps-sdk/gloss//crt0.o
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fopen.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fopen.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseek.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseek.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseeko.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseeko.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-openr.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-openr.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-rand.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-rand.o)
+ .text          0x0000000000000000       0xf0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-refill.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-refill.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-setvbuf.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-setvbuf.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-flags.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-flags.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-freer.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-freer.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fclose.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fclose.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-calloc.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-calloc.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-callocr.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-callocr.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputc.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputc.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputs.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputs.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memchr.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memmove-stub.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memmove-stub.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-putc.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-putc.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-puts.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-puts.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-realloc.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-realloc.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reallocr.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reallocr.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ldtoa.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ldtoa.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-localeconv.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-localeconv.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mprec.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mprec.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-s_frexp.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-s_frexp.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-sprintf.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-sprintf.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strcpy.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strcpy.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strncpy.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strncpy.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfprintf.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfprintf.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfiprintf.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfiprintf.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputwc.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputwc.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-locale.o)
+ .sbss          0x0000000000000000        0x4 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-locale.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mbtowc_r.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mbtowc_r.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strcmp.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfiprintf.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfiprintf.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wcrtomb.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wcrtomb.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wctomb_r.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wctomb_r.o)
+ .text          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .eh_frame      0x0000000000000000       0x28 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .eh_frame      0x0000000000000000       0x28 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+ .text          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ram              0x0000000040100000 0x0000000000700000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccAiEitxdebugobj
+LOAD /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+LOAD /Volumes/Fiddler/hadbadge2019_workshops/basic/app-GOL2_fid/build/GOLbak.png.o
+LOAD /Volumes/Fiddler/hadbadge2019_workshops/basic/app-GOL2_fid/build/tileset.png.o
+
+.vectors        0x0000000040100000        0x4
+                0x0000000040100000                . = ORIGIN (ram)
+                0x0000000040100000                _bin_start = .
+ crt0.o(.text)
+ .text          0x0000000040100000        0x4 build//apps-sdk/gloss//crt0.o
+                0x0000000040100000                _start
+
+.text           0x0000000040100004     0xf020
+ int*(.text)
+ *(.text)
+ .text          0x0000000040100004      0xa7a /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+                0x0000000040100a56                app_start
+ .text          0x0000000040100a7e       0xca /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fopen.o)
+                0x0000000040100a7e                _fopen_r
+                0x0000000040100b38                fopen
+ .text          0x0000000040100b48       0x14 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseek.o)
+                0x0000000040100b48                _fseek_r
+                0x0000000040100b4a                fseek
+ .text          0x0000000040100b5c      0x322 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseeko.o)
+                0x0000000040100b5c                _fseeko_r
+                0x0000000040100e6c                fseeko
+ .text          0x0000000040100e7e       0x3e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fstatr.o)
+                0x0000000040100e7e                _fstat_r
+ .text          0x0000000040100ebc      0x134 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-makebuf.o)
+                0x0000000040100ebc                __swhatbuf_r
+                0x0000000040100f3c                __smakebuf_r
+ .text          0x0000000040100ff0      0x638 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mallocr.o)
+                0x0000000040100ff0                _malloc_r
+ .text          0x0000000040101628       0xa8 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memset.o)
+                0x0000000040101628                memset
+ .text          0x00000000401016d0        0x4 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mlock.o)
+                0x00000000401016d0                __malloc_lock
+                0x00000000401016d2                __malloc_unlock
+ .text          0x00000000401016d4       0x40 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-openr.o)
+                0x00000000401016d4                _open_r
+ .text          0x0000000040101714       0x66 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-rand.o)
+                0x0000000040101714                srand
+                0x0000000040101728                rand
+ .text          0x000000004010177a      0x170 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-refill.o)
+                0x000000004010178c                __srefill_r
+ .text          0x00000000401018ea       0x3a /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-sbrkr.o)
+                0x00000000401018ea                _sbrk_r
+ .text          0x0000000040101924      0x188 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-setvbuf.o)
+                0x0000000040101924                setvbuf
+ .text          0x0000000040101aac       0xd6 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-stdio.o)
+                0x0000000040101aac                __sread
+                0x0000000040101ae4                __seofread
+                0x0000000040101ae8                __swrite
+                0x0000000040101b3a                __sseek
+                0x0000000040101b7c                __sclose
+ .text          0x0000000040101b82       0x40 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-writer.o)
+                0x0000000040101b82                _write_r
+ .text          0x0000000040101bc2       0x3a /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-closer.o)
+                0x0000000040101bc2                _close_r
+ .text          0x0000000040101bfc      0x1ea /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fflush.o)
+                0x0000000040101bfc                __sflush_r
+                0x0000000040101d8e                _fflush_r
+                0x0000000040101dc2                fflush
+ .text          0x0000000040101de6      0x294 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-findfp.o)
+                0x0000000040101dea                _cleanup_r
+                0x0000000040101f2c                __sfmoreglue
+                0x0000000040101f74                __sfp
+                0x000000004010202e                _cleanup
+                0x0000000040102042                __sinit
+                0x000000004010204a                __sfp_lock_acquire
+                0x000000004010204c                __sfp_lock_release
+                0x000000004010204e                __sinit_lock_acquire
+                0x0000000040102050                __sinit_lock_release
+                0x0000000040102052                __fp_lock_all
+                0x0000000040102066                __fp_unlock_all
+ .text          0x000000004010207a       0x80 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-flags.o)
+                0x000000004010207a                __sflags
+ .text          0x00000000401020fa      0x326 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-freer.o)
+                0x00000000401020fa                _malloc_trim_r
+                0x00000000401021d6                _free_r
+ .text          0x0000000040102420       0xf0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fwalk.o)
+                0x0000000040102420                _fwalk
+                0x0000000040102494                _fwalk_reent
+ .text          0x0000000040102510       0x3e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-isattyr.o)
+                0x0000000040102510                _isatty_r
+ .text          0x000000004010254e       0x44 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-lseekr.o)
+                0x000000004010254e                _lseek_r
+ .text          0x0000000040102592       0x1e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-malloc.o)
+                0x0000000040102592                malloc
+                0x00000000401025a2                free
+ .text          0x00000000401025b0       0x44 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-readr.o)
+                0x00000000401025b0                _read_r
+ .text          0x00000000401025f4       0xb6 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fclose.o)
+                0x00000000401025f4                _fclose_r
+                0x000000004010269c                fclose
+ .text          0x00000000401026aa       0x10 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-calloc.o)
+                0x00000000401026aa                calloc
+ .text          0x00000000401026ba       0x82 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-callocr.o)
+                0x00000000401026ba                _calloc_r
+ .text          0x000000004010273c       0x70 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputc.o)
+                0x000000004010273c                _fputc_r
+                0x000000004010276a                fputc
+ .text          0x00000000401027ac       0x6e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputs.o)
+                0x00000000401027ac                _fputs_r
+                0x000000004010280a                fputs
+ .text          0x000000004010281a      0x330 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fvwrite.o)
+                0x000000004010281a                __sfvwrite_r
+ .text          0x0000000040102b4a       0xa8 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memchr.o)
+                0x0000000040102b4a                memchr
+ .text          0x0000000040102bf2       0xe2 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memcpy.o)
+                0x0000000040102bf2                memcpy
+ .text          0x0000000040102cd4       0xd0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memmove-stub.o)
+                0x0000000040102cd4                memmove
+ .text          0x0000000040102da4       0x56 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-printf.o)
+                0x0000000040102da4                _printf_r
+                0x0000000040102dc6                printf
+ .text          0x0000000040102dfa       0xc6 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-putc.o)
+                0x0000000040102dfa                _putc_r
+                0x0000000040102e54                putc
+ .text          0x0000000040102ec0       0x8c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-puts.o)
+                0x0000000040102ec0                _puts_r
+                0x0000000040102f3e                puts
+ .text          0x0000000040102f4c       0x10 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-realloc.o)
+                0x0000000040102f4c                realloc
+ .text          0x0000000040102f5c      0x478 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reallocr.o)
+                0x0000000040102f5c                _realloc_r
+ .text          0x00000000401033d4       0x66 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strlen.o)
+                0x00000000401033d4                strlen
+ .text          0x000000004010343a     0x1e50 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o)
+                0x000000004010343a                _vfprintf_r
+                0x00000000401051e2                vfprintf
+ .text          0x000000004010528a      0x10c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wbuf.o)
+                0x000000004010528a                __swbuf_r
+                0x0000000040105386                __swbuf
+ .text          0x0000000040105396       0xf8 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wsetup.o)
+                0x0000000040105396                __swsetup_r
+ .text          0x000000004010548e     0x1fac /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ldtoa.o)
+                0x00000000401065ac                _ldtoa_r
+                0x00000000401073fc                _ldcheck
+ .text          0x000000004010743a       0x1a /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-localeconv.o)
+                0x000000004010743a                __localeconv_l
+                0x0000000040107440                _localeconv_r
+                0x000000004010744a                localeconv
+ .text          0x0000000040107454      0xa6e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mprec.o)
+                0x0000000040107454                _Balloc
+                0x00000000401074ba                _Bfree
+                0x00000000401074cc                __multadd
+                0x000000004010757e                __s2b
+                0x0000000040107620                __hi0bits
+                0x0000000040107668                __lo0bits
+                0x00000000401076d6                __i2b
+                0x00000000401076f0                __multiply
+                0x0000000040107864                __pow5mult
+                0x0000000040107926                __lshift
+                0x0000000040107a0a                __mcmp
+                0x0000000040107a44                __mdiff
+                0x0000000040107b82                __ulp
+                0x0000000040107bc8                __b2d
+                0x0000000040107c90                __d2b
+                0x0000000040107d66                __ratio
+                0x0000000040107dc4                _mprec_log10
+                0x0000000040107e28                __copybits
+                0x0000000040107e6e                __any_on
+ .text          0x0000000040107ec2       0x7c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-s_frexp.o)
+                0x0000000040107ec2                frexp
+ .text          0x0000000040107f3e       0x8e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-sprintf.o)
+                0x0000000040107f3e                _sprintf_r
+                0x0000000040107f7e                sprintf
+ .text          0x0000000040107fcc       0x7a /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strcpy.o)
+                0x0000000040107fcc                strcpy
+ .text          0x0000000040108046       0x98 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strncpy.o)
+                0x0000000040108046                strncpy
+ .text          0x00000000401080de     0x1d78 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfprintf.o)
+                0x00000000401080de                _svfprintf_r
+ .text          0x0000000040109e56      0xec4 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfiprintf.o)
+                0x0000000040109ef0                __sprint_r
+                0x0000000040109efe                _vfiprintf_r
+                0x000000004010ac72                vfiprintf
+ .text          0x000000004010ad1a      0x132 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputwc.o)
+                0x000000004010ad1a                __fputwc
+                0x000000004010addc                _fputwc_r
+                0x000000004010adfa                fputwc
+ .text          0x000000004010ae4c       0x6c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-locale.o)
+                0x000000004010ae4c                _setlocale_r
+                0x000000004010ae9e                __locale_mb_cur_max
+                0x000000004010aea8                setlocale
+ .text          0x000000004010aeb8       0x4e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mbtowc_r.o)
+                0x000000004010aeb8                _mbtowc_r
+                0x000000004010aec6                __ascii_mbtowc
+ .text          0x000000004010af06      0x11e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strcmp.o)
+                0x000000004010af06                strcmp
+ .text          0x000000004010b024      0xd42 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfiprintf.o)
+                0x000000004010b024                __ssprint_r
+                0x000000004010b150                _svfiprintf_r
+ .text          0x000000004010bd66       0xaa /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wcrtomb.o)
+                0x000000004010bd66                _wcrtomb_r
+                0x000000004010bdb2                wcrtomb
+ .text          0x000000004010be10       0x2e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wctomb_r.o)
+                0x000000004010be10                _wctomb_r
+                0x000000004010be1e                __ascii_wctomb
+ .text          0x000000004010be3e      0x35e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+                0x000000004010be3e                __udivdi3
+ .text          0x000000004010c19c      0x352 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+                0x000000004010c19c                __umoddi3
+ .text          0x000000004010c4ee      0x536 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+                0x000000004010c4ee                __divdf3
+ .text          0x000000004010ca24      0x43c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+                0x000000004010ca24                __muldf3
+ .text          0x000000004010ce60       0xa6 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+                0x000000004010ce60                __eqtf2
+                0x000000004010ce60                __netf2
+ .text          0x000000004010cf06       0xf4 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+                0x000000004010cf06                __getf2
+                0x000000004010cf06                __gttf2
+ .text          0x000000004010cffa       0xf4 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+                0x000000004010cffa                __letf2
+                0x000000004010cffa                __lttf2
+ .text          0x000000004010d0ee      0xb3c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+                0x000000004010d0ee                __multf3
+ .text          0x000000004010dc2a      0xe5e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+                0x000000004010dc2a                __subtf3
+ .text          0x000000004010ea88       0xec /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+                0x000000004010ea88                __fixtfsi
+ .text          0x000000004010eb74       0xf2 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+                0x000000004010eb74                __floatsitf
+ .text          0x000000004010ec66      0x152 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+                0x000000004010ec66                __extenddftf2
+ .text          0x000000004010edb8      0x230 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+                0x000000004010edb8                __trunctfdf2
+ .text          0x000000004010efe8       0x3c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
+                0x000000004010efe8                __clzsi2
+ *(.text.*)
+
+.rela.dyn       0x000000004010f024        0x0
+ .rela.text     0x000000004010f024        0x0 build//apps-sdk/gloss//crt0.o
+
+.data           0x000000004010f028     0x5438
+                0x000000004010f028                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x000000004010f028      0x18c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o)
+ .rodata        0x000000004010f1b4      0x252 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ldtoa.o)
+ *fill*         0x000000004010f406        0x2 
+ .rodata        0x000000004010f408      0x128 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mprec.o)
+                0x000000004010f418                __mprec_tens
+                0x000000004010f4e0                __mprec_tinytens
+                0x000000004010f508                __mprec_bigtens
+ .rodata        0x000000004010f530      0x18c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfprintf.o)
+ .rodata        0x000000004010f6bc      0x18c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfiprintf.o)
+ .rodata        0x000000004010f848      0x18c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfiprintf.o)
+ .rodata        0x000000004010f9d4      0x101 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ctype_.o)
+                0x000000004010f9d4                _ctype_
+ *fill*         0x000000004010fad5        0x3 
+ .rodata        0x000000004010fad8       0x3c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+ .rodata        0x000000004010fb14       0x3c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+ .rodata        0x000000004010fb50       0x3c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+ .rodata        0x000000004010fb8c      0x100 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clz.o)
+                0x000000004010fb8c                __clz_tab
+ *(.rodata.*)
+ .rodata.str1.4
+                0x000000004010fc8c      0x1b1 /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+ .rodata.str1.4
+                0x000000004010fe3d      0x1b1 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-puts.o)
+                                          0x2 (size before relaxing)
+ *fill*         0x000000004010fe3d        0x3 
+ .rodata.str1.4
+                0x000000004010fe40       0x42 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o)
+ *fill*         0x000000004010fe82        0x2 
+ .rodata.str1.4
+                0x000000004010fe84       0x28 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ldtoa.o)
+ .rodata.str1.4
+                0x000000004010feac       0x42 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x000000004010feac       0x2f /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfiprintf.o)
+ .rodata.str1.4
+                0x000000004010feac       0x10 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-locale.o)
+                                         0x12 (size before relaxing)
+ .rodata.str1.4
+                0x000000004010febc       0x2f /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfiprintf.o)
+ *(.srodata)
+ .srodata       0x000000004010febc        0x4 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-impure.o)
+                0x000000004010febc                _global_impure_ptr
+ *(.srodata.*)
+ .srodata.cst8  0x000000004010fec0       0x10 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mprec.o)
+ .srodata.cst8  0x000000004010fed0        0x8 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-s_frexp.o)
+ *(.data)
+ .data          0x000000004010fed8      0xe8a /Volumes/Fiddler/hadbadge2019_workshops/basic/app-GOL2_fid/build/GOLbak.png.o
+                0x000000004010fed8                _binary_GOLbak_png_start
+                0x0000000040110d62                _binary_GOLbak_png_end
+ *fill*         0x0000000040110d62        0x2 
+ .data          0x0000000040110d64     0x2d51 /Volumes/Fiddler/hadbadge2019_workshops/basic/app-GOL2_fid/build/tileset.png.o
+                0x0000000040110d64                _binary_tileset_png_start
+                0x0000000040113ab5                _binary_tileset_png_end
+ *fill*         0x0000000040113ab5        0x3 
+ .data          0x0000000040113ab8      0x428 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-impure.o)
+ .data          0x0000000040113ee0      0x408 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mallocr.o)
+                0x0000000040113ee0                __malloc_av_
+ .data          0x00000000401142e8      0x16c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-locale.o)
+                0x00000000401142e8                __global_locale
+ *(.data.*)
+ *(.gnu.linkonce.d.*)
+ *(.data1)
+ *(.sdata)
+ .sdata         0x0000000040114454        0x4 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-impure.o)
+                0x0000000040114454                _impure_ptr
+ .sdata         0x0000000040114458        0x8 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mallocr.o)
+                0x0000000040114458                __malloc_sbrk_base
+                0x000000004011445c                __malloc_trim_threshold
+ *(.sdata.*)
+ *(.sdata2)
+ *(.sdata2.*)
+
+.bss            0x0000000040114460       0x3c
+                0x0000000040114460                . = ALIGN (0x4)
+                0x0000000040114460                _bin_end = .
+                0x0000000040114460                _bss_start = .
+ *(.bss)
+ .bss           0x0000000040114460       0x28 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mallocr.o)
+                0x0000000040114460                __malloc_current_mallinfo
+ *(.bss.*)
+ *(.sbss)
+ .sbss          0x0000000040114488        0x4 /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+ .sbss          0x000000004011448c        0xc /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mallocr.o)
+                0x000000004011448c                __malloc_max_total_mem
+                0x0000000040114490                __malloc_max_sbrked_mem
+                0x0000000040114494                __malloc_top_pad
+ *(.sbss.*)
+ *(COMMON)
+ COMMON         0x0000000040114498        0x4 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reent.o)
+                0x0000000040114498                errno
+ *(COMMON.*)
+                0x000000004011449c                . = ALIGN (0x4)
+                0x000000004011449c                _bss_end = .
+                0x000000004011449c                _end = .
+                [!provide]                        PROVIDE (_access = 0x4000200c)
+                [!provide]                        PROVIDE (_chdir = 0x40002010)
+                [!provide]                        PROVIDE (_chmod = 0x40002014)
+                [!provide]                        PROVIDE (_chown = 0x40002018)
+                0x000000004000201c                PROVIDE (_close = 0x4000201c)
+                [!provide]                        PROVIDE (_execve = 0x40002020)
+                [!provide]                        PROVIDE (_exit = 0x40002024)
+                [!provide]                        PROVIDE (_faccessat = 0x40002028)
+                [!provide]                        PROVIDE (_fork = 0x4000202c)
+                [!provide]                        PROVIDE (_fstatat = 0x40002030)
+                0x0000000040002034                PROVIDE (_fstat = 0x40002034)
+                [!provide]                        PROVIDE (_ftime = 0x40002038)
+                [!provide]                        PROVIDE (_getcwd = 0x4000203c)
+                [!provide]                        PROVIDE (_getpid = 0x40002040)
+                [!provide]                        PROVIDE (_gettimeofday = 0x40002044)
+                0x0000000040002048                PROVIDE (_isatty = 0x40002048)
+                [!provide]                        PROVIDE (_kill = 0x4000204c)
+                [!provide]                        PROVIDE (_link = 0x40002050)
+                0x0000000040002054                PROVIDE (_lseek = 0x40002054)
+                [!provide]                        PROVIDE (_lstat = 0x40002058)
+                [!provide]                        PROVIDE (_openat = 0x4000205c)
+                0x0000000040002060                PROVIDE (_open = 0x40002060)
+                0x0000000040002064                PROVIDE (_read = 0x40002064)
+                [!provide]                        PROVIDE (_stat = 0x40002068)
+                [!provide]                        PROVIDE (_sysconf = 0x4000206c)
+                [!provide]                        PROVIDE (_times = 0x40002070)
+                [!provide]                        PROVIDE (_unlink = 0x40002074)
+                [!provide]                        PROVIDE (_utime = 0x40002078)
+                [!provide]                        PROVIDE (_wait = 0x4000207c)
+                0x0000000040002080                PROVIDE (_write = 0x40002080)
+                [!provide]                        PROVIDE (opendir = 0x40002084)
+                [!provide]                        PROVIDE (readdir = 0x40002088)
+                [!provide]                        PROVIDE (closedir = 0x4000208c)
+                0x0000000040002090                PROVIDE (_sbrk = 0x40002090)
+                0x0000000040002094                PROVIDE (gfx_load_fb_mem = 0x40002094)
+                0x0000000040002098                PROVIDE (gfx_load_tiles_mem = 0x40002098)
+                0x000000004000209c                PROVIDE (user_memfn_set = 0x4000209c)
+                [!provide]                        PROVIDE (gfx_load_tilemap_mem = 0x400020a0)
+                [!provide]                        PROVIDE (gfx_load_fb_tga = 0x400020a4)
+                [!provide]                        PROVIDE (gfx_load_fb_tga_mem = 0x400020a8)
+                [!provide]                        PROVIDE (gfx_load_tiles_tga = 0x400020ac)
+                [!provide]                        PROVIDE (gfx_load_tiles_tga_mem = 0x400020b0)
+                [!provide]                        PROVIDE (usb_msc_on = 0x400020b4)
+                [!provide]                        PROVIDE (usb_msc_off = 0x400020b8)
+                [!provide]                        PROVIDE (fs_cart_initialize_fat = 0x400020bc)
+                [!provide]                        PROVIDE (millis = 0x400020c0)
+                [!provide]                        PROVIDE (delay = 0x400020c4)
+                [!provide]                        PROVIDE (wait_for_button_press = 0x400020c8)
+                [!provide]                        PROVIDE (wait_for_button_release = 0x400020cc)
+                [!provide]                        PROVIDE (wait_for_next_frame = 0x400020d0)
+                [!provide]                        PROVIDE (interrupt_vector_table = 0x40000020)
+                [!provide]                        PROVIDE (irq_stack_ptr = 0x400000a0)
+                [!provide]                        PROVIDE (UART = 0x10000000)
+                0x0000000020000000                PROVIDE (MISC = 0x20000000)
+                [!provide]                        PROVIDE (LCD = 0x30000000)
+                0x0000000050000000                PROVIDE (GFXREG = 0x50000000)
+                0x0000000050002000                PROVIDE (GFXPAL = 0x50002000)
+                [!provide]                        PROVIDE (GFXTILEMAPA = 0x50004000)
+                [!provide]                        PROVIDE (GFXTILEMAPB = 0x50008000)
+                [!provide]                        PROVIDE (GFXSPRITES = 0x5000c000)
+                0x0000000050010000                PROVIDE (GFXTILES = 0x50010000)
+                [!provide]                        PROVIDE (GFXCOPPEROPS = 0x50020000)
+                [!provide]                        PROVIDE (USB = 0x60000000)
+                [!provide]                        PROVIDE (SYNTH = 0x80000000)
+LOAD /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a
+LOAD /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libm.a
+LOAD build//apps-sdk/gloss//libgloss.a
+LOAD /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a
+START GROUP
+LOAD /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a
+LOAD build//apps-sdk/gloss//libgloss.a
+END GROUP
+LOAD /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a
+OUTPUT(GOL.elf elf32-littleriscv)
+
+.debug_info     0x0000000000000000     0x9f74
+ .debug_info    0x0000000000000000     0x15ad /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccAiEitxdebugobj
+                0x0000000000000000                main.c.304df7f7
+                0x0000000000000bd0                app_start.c.aeb549a2
+ .debug_info    0x00000000000015ad      0x770 /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+ .debug_info    0x0000000000001d1d       0x26 build//apps-sdk/gloss//crt0.o
+ .debug_info    0x0000000000001d43     0x1245 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000002f88     0x12a3 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .debug_info    0x000000000000422b      0x734 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+ .debug_info    0x000000000000495f      0x76c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+ .debug_info    0x00000000000050cb      0x298 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+ .debug_info    0x0000000000005363      0x296 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+ .debug_info    0x00000000000055f9      0x296 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+ .debug_info    0x000000000000588f     0x126c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+ .debug_info    0x0000000000006afb      0xd83 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+ .debug_info    0x000000000000787e      0x2c5 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+ .debug_info    0x0000000000007b43      0x3c6 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+ .debug_info    0x0000000000007f09      0x3ef /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+ .debug_info    0x00000000000082f8      0x53b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+ .debug_info    0x0000000000008833      0xb6a /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .debug_info    0x000000000000939d      0xbd7 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
+
+.debug_abbrev   0x0000000000000000     0x217f
+ .debug_abbrev  0x0000000000000000      0x444 /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccAiEitxdebugobj
+ .debug_abbrev  0x0000000000000444      0x13c /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000000580       0x14 build//apps-sdk/gloss//crt0.o
+ .debug_abbrev  0x0000000000000594      0x2cc /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x0000000000000860      0x2e8 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .debug_abbrev  0x0000000000000b48      0x187 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+ .debug_abbrev  0x0000000000000ccf      0x197 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+ .debug_abbrev  0x0000000000000e66      0x18b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+ .debug_abbrev  0x0000000000000ff1      0x19e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+ .debug_abbrev  0x000000000000118f      0x19e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+ .debug_abbrev  0x000000000000132d      0x1a8 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+ .debug_abbrev  0x00000000000014d5      0x1bd /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+ .debug_abbrev  0x0000000000001692      0x1ac /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+ .debug_abbrev  0x000000000000183e      0x1b5 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+ .debug_abbrev  0x00000000000019f3      0x1ab /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+ .debug_abbrev  0x0000000000001b9e      0x1b7 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+ .debug_abbrev  0x0000000000001d55      0x1e8 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .debug_abbrev  0x0000000000001f3d      0x242 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
+
+.debug_line     0x0000000000000000     0xa029
+ .debug_line    0x0000000000000000      0x3e2 /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccAiEitxdebugobj
+ .debug_line    0x00000000000003e2      0xd9d /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+ .debug_line    0x000000000000117f       0x7c build//apps-sdk/gloss//crt0.o
+ .debug_line    0x00000000000011fb      0x9cd /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .debug_line    0x0000000000001bc8      0xa7d /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .debug_line    0x0000000000002645      0xe35 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+ .debug_line    0x000000000000347a      0xbf8 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+ .debug_line    0x0000000000004072      0x2ac /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+ .debug_line    0x000000000000431e      0x393 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+ .debug_line    0x00000000000046b1      0x393 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+ .debug_line    0x0000000000004a44     0x1e57 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+ .debug_line    0x000000000000689b     0x2181 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+ .debug_line    0x0000000000008a1c      0x2b7 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+ .debug_line    0x0000000000008cd3      0x2d6 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+ .debug_line    0x0000000000008fa9      0x468 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+ .debug_line    0x0000000000009411      0x584 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+ .debug_line    0x0000000000009995      0x309 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .debug_line    0x0000000000009c9e      0x38b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
+
+.debug_str      0x0000000000000000     0x16b3
+ .debug_str     0x0000000000000000      0x6e2 /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccAiEitxdebugobj
+                                        0xc6f (size before relaxing)
+ .debug_str     0x00000000000006e2       0x8b /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+                                         0xc6 (size before relaxing)
+ .debug_str     0x000000000000076d       0x99 build//apps-sdk/gloss//crt0.o
+ .debug_str     0x0000000000000806      0x3e9 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+                                        0x892 (size before relaxing)
+ .debug_str     0x0000000000000bef        0xa /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+                                        0x892 (size before relaxing)
+ .debug_str     0x0000000000000bf9      0x2a4 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+                                        0x41a (size before relaxing)
+ .debug_str     0x0000000000000e9d      0x15f /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+                                        0x472 (size before relaxing)
+ .debug_str     0x0000000000000ffc       0x8b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+                                        0x26f (size before relaxing)
+ .debug_str     0x0000000000001087       0x5c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+                                        0x293 (size before relaxing)
+ .debug_str     0x00000000000010e3       0x38 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+                                        0x293 (size before relaxing)
+ .debug_str     0x000000000000111b      0x299 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+                                        0x5f9 (size before relaxing)
+ .debug_str     0x00000000000013b4      0x17b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+                                        0x4c6 (size before relaxing)
+ .debug_str     0x000000000000152f       0x4f /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+                                        0x2d7 (size before relaxing)
+ .debug_str     0x000000000000157e       0x6d /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+                                        0x39e (size before relaxing)
+ .debug_str     0x00000000000015eb       0x51 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+                                        0x2eb (size before relaxing)
+ .debug_str     0x000000000000163c       0x6e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+                                        0x422 (size before relaxing)
+ .debug_str     0x00000000000016aa      0x7d9 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .debug_str     0x00000000000016aa        0x9 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
+                                        0x7f6 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0xffaa
+ .debug_loc     0x0000000000000000      0x55a /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+ .debug_loc     0x000000000000055a      0xbd0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .debug_loc     0x000000000000112a      0x969 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .debug_loc     0x0000000000001a93     0x129b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+ .debug_loc     0x0000000000002d2e      0xd6e /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+ .debug_loc     0x0000000000003a9c       0x87 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+ .debug_loc     0x0000000000003b23      0x134 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+ .debug_loc     0x0000000000003c57      0x134 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+ .debug_loc     0x0000000000003d8b     0x8fad /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+ .debug_loc     0x000000000000cd38     0x22af /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+ .debug_loc     0x000000000000efe7      0x302 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+ .debug_loc     0x000000000000f2e9      0x1f8 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+ .debug_loc     0x000000000000f4e1      0x417 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+ .debug_loc     0x000000000000f8f8      0x647 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+ .debug_loc     0x000000000000ff3f       0x6b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
+
+.debug_aranges  0x0000000000000000      0x218
+ .debug_aranges
+                0x0000000000000000       0x20 /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000020       0x20 build//apps-sdk/gloss//crt0.o
+ .debug_aranges
+                0x0000000000000040       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+ .debug_aranges
+                0x0000000000000100       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+ .debug_aranges
+                0x0000000000000120       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+ .debug_aranges
+                0x0000000000000140       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+ .debug_aranges
+                0x0000000000000160       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+ .debug_aranges
+                0x0000000000000180       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+ .debug_aranges
+                0x00000000000001e0       0x18 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .debug_aranges
+                0x00000000000001f8       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
+
+.debug_ranges   0x0000000000000000     0x13c0
+ .debug_ranges  0x0000000000000000       0x90 /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000000090      0x100 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .debug_ranges  0x0000000000000190       0xd0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .debug_ranges  0x0000000000000260      0x180 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+ .debug_ranges  0x00000000000003e0      0x1c0 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+ .debug_ranges  0x00000000000005a0       0x58 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+ .debug_ranges  0x00000000000005f8       0x78 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+ .debug_ranges  0x0000000000000670       0x78 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+ .debug_ranges  0x00000000000006e8      0x760 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+ .debug_ranges  0x0000000000000e48      0x350 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+ .debug_ranges  0x0000000000001198       0x40 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+ .debug_ranges  0x00000000000011d8       0x58 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+ .debug_ranges  0x0000000000001230       0x98 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+ .debug_ranges  0x00000000000012c8       0xd8 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+ .debug_ranges  0x00000000000013a0       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
+
+.comment        0x0000000000000000       0x28
+ .comment       0x0000000000000000       0x29 /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x28 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fopen.o)
+                                         0x29 (size before relaxing)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseek.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseeko.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fstatr.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-makebuf.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mallocr.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mlock.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-openr.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-rand.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reent.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-refill.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-setvbuf.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-stdio.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-writer.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-closer.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fflush.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-findfp.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-flags.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-freer.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fwalk.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-isattyr.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-lseekr.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-malloc.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-readr.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fclose.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-calloc.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-callocr.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputc.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputs.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memchr.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memmove-stub.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-printf.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-putc.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-puts.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-realloc.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reallocr.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wbuf.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wsetup.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ldtoa.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-localeconv.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mprec.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-s_frexp.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-sprintf.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strcpy.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strncpy.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfprintf.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfiprintf.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputwc.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-locale.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mbtowc_r.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfiprintf.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wcrtomb.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wctomb_r.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ctype_.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .comment       0x0000000000000028       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
+
+.riscv.attributes
+                0x0000000000000000       0x2b
+ .riscv.attributes
+                0x0000000000000000       0x2b /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+ .riscv.attributes
+                0x000000000000002b       0x29 build//apps-sdk/gloss//crt0.o
+ .riscv.attributes
+                0x0000000000000054       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fopen.o)
+ .riscv.attributes
+                0x000000000000007f       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseek.o)
+ .riscv.attributes
+                0x00000000000000aa       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fseeko.o)
+ .riscv.attributes
+                0x00000000000000d5       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fstatr.o)
+ .riscv.attributes
+                0x0000000000000100       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-impure.o)
+ .riscv.attributes
+                0x000000000000012b       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-makebuf.o)
+ .riscv.attributes
+                0x0000000000000156       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mallocr.o)
+ .riscv.attributes
+                0x0000000000000181       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memset.o)
+ .riscv.attributes
+                0x00000000000001aa       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mlock.o)
+ .riscv.attributes
+                0x00000000000001d5       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-openr.o)
+ .riscv.attributes
+                0x0000000000000200       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-rand.o)
+ .riscv.attributes
+                0x000000000000022b       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reent.o)
+ .riscv.attributes
+                0x0000000000000256       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-refill.o)
+ .riscv.attributes
+                0x0000000000000281       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-sbrkr.o)
+ .riscv.attributes
+                0x00000000000002ac       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-setvbuf.o)
+ .riscv.attributes
+                0x00000000000002d7       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-stdio.o)
+ .riscv.attributes
+                0x0000000000000302       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-writer.o)
+ .riscv.attributes
+                0x000000000000032d       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-closer.o)
+ .riscv.attributes
+                0x0000000000000358       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fflush.o)
+ .riscv.attributes
+                0x0000000000000383       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-findfp.o)
+ .riscv.attributes
+                0x00000000000003ae       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-flags.o)
+ .riscv.attributes
+                0x00000000000003d9       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-freer.o)
+ .riscv.attributes
+                0x0000000000000404       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fwalk.o)
+ .riscv.attributes
+                0x000000000000042f       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-isattyr.o)
+ .riscv.attributes
+                0x000000000000045a       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-lseekr.o)
+ .riscv.attributes
+                0x0000000000000485       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-malloc.o)
+ .riscv.attributes
+                0x00000000000004b0       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-readr.o)
+ .riscv.attributes
+                0x00000000000004db       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fclose.o)
+ .riscv.attributes
+                0x0000000000000506       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-calloc.o)
+ .riscv.attributes
+                0x0000000000000531       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-callocr.o)
+ .riscv.attributes
+                0x000000000000055c       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputc.o)
+ .riscv.attributes
+                0x0000000000000587       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputs.o)
+ .riscv.attributes
+                0x00000000000005b2       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fvwrite.o)
+ .riscv.attributes
+                0x00000000000005dd       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memchr.o)
+ .riscv.attributes
+                0x0000000000000608       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memcpy.o)
+ .riscv.attributes
+                0x0000000000000633       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-memmove-stub.o)
+ .riscv.attributes
+                0x000000000000065e       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-printf.o)
+ .riscv.attributes
+                0x0000000000000689       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-putc.o)
+ .riscv.attributes
+                0x00000000000006b4       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-puts.o)
+ .riscv.attributes
+                0x00000000000006df       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-realloc.o)
+ .riscv.attributes
+                0x000000000000070a       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-reallocr.o)
+ .riscv.attributes
+                0x0000000000000735       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strlen.o)
+ .riscv.attributes
+                0x0000000000000760       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfprintf.o)
+ .riscv.attributes
+                0x000000000000078b       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wbuf.o)
+ .riscv.attributes
+                0x00000000000007b6       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wsetup.o)
+ .riscv.attributes
+                0x00000000000007e1       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ldtoa.o)
+ .riscv.attributes
+                0x000000000000080c       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-localeconv.o)
+ .riscv.attributes
+                0x0000000000000837       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mprec.o)
+ .riscv.attributes
+                0x0000000000000862       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-s_frexp.o)
+ .riscv.attributes
+                0x000000000000088d       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-sprintf.o)
+ .riscv.attributes
+                0x00000000000008b8       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strcpy.o)
+ .riscv.attributes
+                0x00000000000008e3       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strncpy.o)
+ .riscv.attributes
+                0x000000000000090e       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfprintf.o)
+ .riscv.attributes
+                0x0000000000000939       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-vfiprintf.o)
+ .riscv.attributes
+                0x0000000000000964       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-fputwc.o)
+ .riscv.attributes
+                0x000000000000098f       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-locale.o)
+ .riscv.attributes
+                0x00000000000009ba       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-mbtowc_r.o)
+ .riscv.attributes
+                0x00000000000009e5       0x29 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-strcmp.o)
+ .riscv.attributes
+                0x0000000000000a0e       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-svfiprintf.o)
+ .riscv.attributes
+                0x0000000000000a39       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wcrtomb.o)
+ .riscv.attributes
+                0x0000000000000a64       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-wctomb_r.o)
+ .riscv.attributes
+                0x0000000000000a8f       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/../../../../riscv64-unknown-elf/lib/rv32imac/ilp32/libc.a(lib_a-ctype_.o)
+ .riscv.attributes
+                0x0000000000000aba       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .riscv.attributes
+                0x0000000000000ae5       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .riscv.attributes
+                0x0000000000000b10       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+ .riscv.attributes
+                0x0000000000000b3b       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+ .riscv.attributes
+                0x0000000000000b66       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+ .riscv.attributes
+                0x0000000000000b91       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+ .riscv.attributes
+                0x0000000000000bbc       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+ .riscv.attributes
+                0x0000000000000be7       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+ .riscv.attributes
+                0x0000000000000c12       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+ .riscv.attributes
+                0x0000000000000c3d       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+ .riscv.attributes
+                0x0000000000000c68       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+ .riscv.attributes
+                0x0000000000000c93       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+ .riscv.attributes
+                0x0000000000000cbe       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+ .riscv.attributes
+                0x0000000000000ce9       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .riscv.attributes
+                0x0000000000000d14       0x2b /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
+
+.debug_frame    0x0000000000000000      0x350
+ .debug_frame   0x0000000000000000       0x88 /var/folders/pl/k0v541pj3gq08skw_5wv1lkw0000gn/T//ccvj5KoO.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000088       0x54 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(divdf3.o)
+ .debug_frame   0x00000000000000dc       0x54 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(muldf3.o)
+ .debug_frame   0x0000000000000130       0x2c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(eqtf2.o)
+ .debug_frame   0x000000000000015c       0x2c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(getf2.o)
+ .debug_frame   0x0000000000000188       0x2c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(letf2.o)
+ .debug_frame   0x00000000000001b4       0x64 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(multf3.o)
+ .debug_frame   0x0000000000000218       0x4c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(subtf3.o)
+ .debug_frame   0x0000000000000264       0x2c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(fixtfsi.o)
+ .debug_frame   0x0000000000000290       0x3c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(floatsitf.o)
+ .debug_frame   0x00000000000002cc       0x38 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(extenddftf2.o)
+ .debug_frame   0x0000000000000304       0x2c /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(trunctfdf2.o)
+ .debug_frame   0x0000000000000330       0x20 /Users/fid/ecp5-toolchain/bin/../lib/gcc/riscv64-unknown-elf/8.3.0/rv32imac/ilp32/libgcc.a(_clzsi2.o)
